@@ -1,5 +1,3 @@
-// Command visible is a chromedp example demonstrating how to wait until an
-// element is visible.
 package main
 
 import (
